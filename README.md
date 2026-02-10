@@ -20,4 +20,3 @@ Projects are added here once they are:
 ## Learning Journey
 Active learning and experiments live in a separate private repository.
 Only completed, polished projects are promoted here.
-Commit.
